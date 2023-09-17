@@ -3,7 +3,7 @@ public class Ex4_8{
 	public static void main(String[] args) {
 
 		//괄호{}안의 문장을 3번 반복
-//		for(int i=1; i<=3; i++) {
+//		for(int i=1; i<=3; i++) {    
 //			System.out.println("Hello");
 //		}
 		
